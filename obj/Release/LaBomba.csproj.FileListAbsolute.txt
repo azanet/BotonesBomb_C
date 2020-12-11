@@ -1,0 +1,9 @@
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\bin\Release\LaBomba.exe.config
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\bin\Release\LaBomba.exe
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\bin\Release\LaBomba.pdb
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\obj\Release\LaBomba.frmBomba.resources
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\obj\Release\LaBomba.Properties.Resources.resources
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\obj\Release\LaBomba.csproj.GenerateResource.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\obj\Release\LaBomba.csproj.CoreCompileInputs.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\obj\Release\LaBomba.exe
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\LaBomba\obj\Release\LaBomba.pdb
